@@ -19,3 +19,4 @@ end
 save('SVM','u');    
 end
 
+c[46] = {"stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri","stri",
